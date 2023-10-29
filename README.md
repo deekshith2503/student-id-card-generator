@@ -6,19 +6,19 @@ The Student ID Card Generator is a web-based application developed using HTML, C
 
 ## KEY FEATURES
 
-User-friendly Interface: The project features an intuitive and easy-to-use interface that ensures a smooth experience for both novice and experienced users.
+* User-friendly Interface: The project features an intuitive and easy-to-use interface that ensures a smooth experience for both novice and experienced users.
 
-User Authentication: To maintain security and access control, the application can incorporate user authentication mechanisms, such as login credentials for authorized personnel.
+* User Authentication: To maintain security and access control, the application can incorporate user authentication mechanisms, such as login credentials for authorized personnel.
 
-Student Data Management: The system allows administrators to manage student data, including details like name, student ID, photograph, and other relevant information. This data is securely stored in a database.
+* Student Data Management: The system allows administrators to manage student data, including details like name, student ID, photograph, and other relevant information. This data is securely stored in a database.
 
-ID Card Customization: Users can customize the design of the ID card, including the institution's logo, student's photo, name, ID number, and additional information like program, department, and expiration date. Customization options can be tailored to suit the specific needs of the institution.
+* ID Card Customization: Users can customize the design of the ID card, including the institution's logo, student's photo, name, ID number, and additional information like program, department, and expiration date. Customization options can be tailored to suit the specific needs of the institution.
 
-ID Card Printing: Once the ID card design is finalized, the system provides a print-ready version that can be sent to a connected printer. The system may support various card sizes, ensuring compatibility with standard ID card printers.
+* ID Card Printing: Once the ID card design is finalized, the system provides a print-ready version that can be sent to a connected printer. The system may support various card sizes, ensuring compatibility with standard ID card printers.
 
-Data Retrieval: Users can search for and retrieve student data easily, enabling the reissuance of ID cards, as well as updating student information as needed.
+* Data Retrieval: Users can search for and retrieve student data easily, enabling the reissuance of ID cards, as well as updating student information as needed.
 
-Data Export: The project can offer the option to export student data to CSV or Excel files for data backup or reporting purposes.
+* Data Export: The project can offer the option to export student data to CSV or Excel files for data backup or reporting purposes.
 
 ## TECHNOLOGY STACK
 
